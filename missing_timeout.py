@@ -8,3 +8,5 @@ def get_product_from_api(product_id):
     except requests.exceptions.RequestException as e:
         print(e)
     return None
+
+tanishq("hello")
