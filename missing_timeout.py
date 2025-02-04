@@ -10,3 +10,5 @@ def get_product_from_api(product_id):
     return None
 
 tanishq("hello")
+
+tanishq("world")
